@@ -1,0 +1,73 @@
+body{
+	background:#fff;
+	color:#000;
+        font-family: Tahoma,Verdana,Arial;
+	text-align: center;
+	color: #444;
+}
+body * {
+	text-align: left;
+}
+
+.logo {
+    text-align: center;
+}
+
+img {
+	border:none;
+}
+
+a {
+	color: #0152a7;
+}
+a:hover {
+	text-decoration: none;
+}
+.message {
+	text-align: center;
+	font-size:18px;
+}
+.content-cell {
+	padding: 0 10%;
+}
+.message2 {
+	border: 1px solid #ccc;
+	line-height: 25px;
+	margin-top: 10px;
+	padding: 5px 10px;
+	text-align: justify;
+	background: rgb(250,250,250);
+}
+.alert {
+	text-align: right;
+	margin-bottom: 28px;
+	font-style: italic;
+}
+.grey-font {
+	font-size: 18px;
+	text-align: justify;
+	max-width: 1350px;
+}
+.pay-btn {
+	background: #0962c0;
+	border: 1px solid #888;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	height: 40px;
+	padding: 0 20px;
+	line-height: 40px;
+	font-weight: normal;
+	text-decoration: none;
+}
+.pay-btn:hover {
+	text-decoration: none;
+	color: #fff;
+}
+.clear {
+	clear: both;
+	display: block;
+	font-size: 1px;
+	height: 1px;
+	width: 1px;
+}
