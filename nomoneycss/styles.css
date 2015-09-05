@@ -22,11 +22,11 @@ img {
 	font-family:"Segoe UI",Calibri,"Myriad Pro",Myriad,"Trebuchet MS",Helvetica,Arial,sans-serif;
 	font-size:0.75em;
 	margin:0 auto;
-	width:0,89583333333%;
+	width:89.583333333%;
 }
 
 .info {
-	width:0,89583333333%;
+	width:89.583333333%;
 }
 
 .info td{
@@ -39,7 +39,7 @@ img {
 .title{
 	float:left;
 	padding:5px;
-	width:200px;
+	width:20.833333333%;
 	font-weight:bold;
 	font-size:1.25em;
 	color:#173982;
