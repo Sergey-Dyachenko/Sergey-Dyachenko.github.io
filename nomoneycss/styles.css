@@ -350,7 +350,7 @@ a:hover {
     font-weight:bold;
     color:#555;	
 }
-@media{max-width(300px) and min-width(0px)
+@media{max-width(712px) and min-width(0px)
 	.center-logo{	
 		width:80%;	
 	}	
