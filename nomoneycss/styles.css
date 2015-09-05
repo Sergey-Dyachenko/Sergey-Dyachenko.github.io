@@ -352,7 +352,7 @@ a:hover {
 }
 @media{max-width(300px) and min-width(0px)
 	.center-logo{	
-		width:60%;	
+		width:80%;	
 	}	
 	
 }
