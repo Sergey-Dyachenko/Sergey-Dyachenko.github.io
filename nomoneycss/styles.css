@@ -133,7 +133,7 @@ td.description{
 }
 
 .header{
-	font-size:1.125px;
+	font-size:1.125em;
 	font-weight:bold;
 	text-align:center;
 	background:none;
@@ -277,7 +277,7 @@ td.description{
     color: #FFFFFF;
     cursor: pointer;
     display: block;
-    font-size: 0.688;
+    font-size: 0.688em;
     font-weight: bold;
     margin: 10px auto 5px;
     padding: 2px;
