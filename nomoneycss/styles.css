@@ -3,7 +3,7 @@ body{
 	color:#000;
 	padding:0;
 	margin:0;
-        font: 11px Tahoma,Verdana,Arial;
+        font: 0.688em Tahoma,Verdana,Arial;
 }
 
 img {
@@ -16,7 +16,7 @@ img {
 
 .wrapper{
 	font-family:"Segoe UI",Calibri,"Myriad Pro",Myriad,"Trebuchet MS",Helvetica,Arial,sans-serif;
-	font-size:12px;
+	font-size:0.75em;
 	margin:0 auto;
 	width:860px;
 }
@@ -37,7 +37,7 @@ img {
 	padding:5px;
 	width:200px;
 	font-weight:bold;
-	font-size:20px;
+	font-size:1.25em;
 	color:#173982;
 }
 
@@ -102,7 +102,7 @@ td.description{
 
 .more-items td{
 	text-align:center;
-	font-size:11px;
+	font-size:0.688em;
 	padding:5px;
 	font-weight:bold;
 }
@@ -120,7 +120,7 @@ td.description{
 	border:none;
 	width:391px;
 	height:68px;
-	font-size:32px;
+	font-size:2em;
 }
 
 .clear {
@@ -133,7 +133,7 @@ td.description{
 }
 
 .header{
-	font-size:18px;
+	font-size:1.125px;
 	font-weight:bold;
 	text-align:center;
 	background:none;
@@ -241,13 +241,13 @@ td.description{
 }
 
 .mes1{
-	font-size:24px;
+	font-size:1.5em;
 	margin-bottom:50px;
 	font-family:"Verdana";
 }
 
 .mes2, .mes3 {
-	font-size:14px;
+	font-size:0.875em;
 	margin-bottom:15px;
 	font-family:"Verdana";
 }
@@ -277,7 +277,7 @@ td.description{
     color: #FFFFFF;
     cursor: pointer;
     display: block;
-    font-size: 11px;
+    font-size: 0.688;
     font-weight: bold;
     margin: 10px auto 5px;
     padding: 2px;
@@ -305,7 +305,7 @@ td.description{
 }
 
 h3 {
-    font-size: 14px;
+    font-size: 0.875em;
 }
 
 a {
@@ -320,7 +320,7 @@ a:hover {
 
 .message{
     text-align: center;
-    font-size:18px; 
+    font-size:1.125em; 
     color:#0152A7;
     font-weight:bold;
 }
