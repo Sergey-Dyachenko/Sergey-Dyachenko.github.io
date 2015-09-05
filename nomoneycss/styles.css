@@ -351,3 +351,10 @@ a:hover {
     font-weight:bold;
     color:#555;	
 }
+@media{max-width(300px)
+	.center-logo{	
+		width:60%;	
+	}	
+	
+}
+	
