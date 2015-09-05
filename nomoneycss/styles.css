@@ -15,7 +15,9 @@ img {
 
 
 .center-logo{
-	text-align:center;
+  width: 399px;
+  display: block;
+  margin: 0 auto;
 }
 
 .wrapper{
